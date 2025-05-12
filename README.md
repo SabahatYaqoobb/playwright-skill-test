@@ -22,7 +22,9 @@ This project contains Playwright test challenges for evaluating JavaScript end-t
   - Text: "Playwright Test"
   - Password: "Secret123"
   - Date: today’s date
+  - Upload a test file
   - Dropdown: "Option 2"
+  -  Dropdown (datalist) : New York
 - Click the **Submit** button
 - Assert confirmation message contains "Received!"
 
