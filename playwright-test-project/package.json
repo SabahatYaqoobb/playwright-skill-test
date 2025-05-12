@@ -1,0 +1,11 @@
+{
+  "name": "playwright-test-project",
+  "version": "1.0.0",
+  "description": "Playwright tests for skill evaluation",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.1"
+  }
+}
