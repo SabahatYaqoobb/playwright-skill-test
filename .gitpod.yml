@@ -1,0 +1,9 @@
+image: mcr.microsoft.com/playwright:v1.42.1-jammy
+
+tasks:
+  - init: npm install
+    command: npx playwright install && npm test
+
+vscode:
+  extensions:
+    - ms-playwright.playwright
